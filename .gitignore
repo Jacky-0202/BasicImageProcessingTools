@@ -32,4 +32,4 @@ desktop.ini
 # 忽略編譯和臨時文件夾
 Debug/
 Release/
-x64/
+# x64/ You can use .exe
